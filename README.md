@@ -1,6 +1,7 @@
 <h1 align="center"> rBot </h1>
 <p align="center">a python-based discord bot</p>
 
+referensi : <a href="https://www.youtube.com/playlist?list=PLwqYQaS6jxfk_NCetUOyNRDGAf9_kU90n"> Disini</a>
 ## Library :
 - `discord.py`
 - `asyncio`
