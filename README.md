@@ -8,9 +8,18 @@ referensi : <a href="https://www.youtube.com/playlist?list=PLwqYQaS6jxfk_NCetUOy
 - `dotenv`
 
 ## Commands
+Kita bisa make _slash command_ (prefix /) dan _shout command_ (prefix !, ga tau sebutannya apa)
+
+### Slash Command
 - `/ping` : Bot Latency
 - `/salam` : Menjawab salam
 - `/qotd` : Quotes random
+
+### Shout Command
+- `!cmd` : Menunjukkan list command
+- `!ping` : Mengirim info _bot latency_
+- `!pingme` : Mengirim info _bot latency_ melalui dm
+- `!salam` : Menjawab salam
 
 ## Keyword
 ctx : context
